@@ -7,7 +7,6 @@ import os
 
 
 
-# This is my first API based Currency Converter Project with GUI using Tkinter.
 API_URL = "https://api.exchangerate-api.com/v4/latest/USD"
 
 def get_flag(code):
