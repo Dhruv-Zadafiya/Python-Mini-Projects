@@ -1,4 +1,4 @@
-# This is Simple Power Control App
+# This is Simple Power Control Application
 from tkinter import *
 import os
 
