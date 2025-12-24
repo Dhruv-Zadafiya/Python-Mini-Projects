@@ -1,4 +1,4 @@
-
+# This is Simple Power Control App
 from tkinter import *
 import os
 
