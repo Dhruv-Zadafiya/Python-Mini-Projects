@@ -5,6 +5,7 @@ import calendar
 HOLIDAYS = [
       (1, 14, "Makarshankranti / Pongal"),
     (1, 26, "Republic Day"),
+    (1,1, "Happy New  Year"),
     (8, 15, "Independence Day"),
     (12, 25, "Christmas"),
 ]
