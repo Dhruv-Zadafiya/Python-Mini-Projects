@@ -6,8 +6,6 @@ import requests
 from datetime import datetime
 import os
 
-
-
 API_URL = "https://api.exchangerate-api.com/v4/latest/USD"
 
 def get_flag(code):
